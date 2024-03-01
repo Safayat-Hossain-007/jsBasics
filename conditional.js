@@ -12,5 +12,5 @@ if(jobPaiso == true && savingAmount > 20000){
 
 }
 else{
-    console.log("keep grinding");
+    console.log("keep grinding !");
 }
